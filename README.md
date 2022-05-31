@@ -59,7 +59,7 @@
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ZauteKm/MusicPlayer">
+<a href="https://heroku.com/deploy?template=https://github.com/Hacker-Cyber07/MusicPlayer">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -90,7 +90,7 @@
 <br/>
 
 ```sh
-git clone https://github.com/ZauteKm/MusicPlayer
+git clone https://github.com/Hacker-Cyber07/MusicPlayer
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -138,7 +138,7 @@ Join Now Telegram [VC Music Live Sets](https://t.me/c/1481808444/131)
 ## License
 ```sh
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @Hackercyber07
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
